@@ -1,18 +1,17 @@
-## :woman_technologist: Обо мне
+## :woman_technologist: About me
 
-- Backend-разработчик на языке Python.
+- Backend developer in Python.
 
-- Люблю все планировать, систематизировать и упорядочивать.
+- I like to plan, systematize and organize everything.
 
-- Строго соблюдаю сроки выполнения работ и требования по качеству.
+- Strictly adhere to deadlines and quality requirements.
 
-- Способна объяснить сложное простым языком и считаю наставничество одним из важнейших инструментов для развития.
+- I am able to explain complex things in simple terms and consider mentoring as one of the most important tools for development.
 
-- В поисках места в команде, разделяющей мои ценности, которой будут полезны мои навыки и личные качества.
+- I am looking for a position in a team that shares my values and will benefit from my skills and personal qualities.
 
 ---
-## Стек технологий
-
+## Languages and tools
 <img src="https://img.shields.io/badge/linux-yellow?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/windows-blue?style=for-the-badge"/>   
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/SQL-DCDCDC?style=for-the-badge"/> <img src="https://img.shields.io/badge/html-red?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=CSS3&logoColor=white"/>  
 <img src="https://img.shields.io/badge/PSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=white"/>  
@@ -21,10 +20,10 @@
 <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/celery-green?style=for-the-badge&logo=celery&logoColor=white"/>
 
 ---
-## Статистика GitHub
+## GitHub statiatics
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annaputilovskaya&locale=ru)](https://git.io/streak-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaputilovskaya&layout=donut&locale=ru)](https://github.com/annaputilovskaya/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annaputilovskaya)](https://git.io/streak-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaputilovskaya&layout=donut)](https://github.com/annaputilovskaya/github-readme-stats)
 
 ---
-## Контакты: [![Linkedin Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aputil)
+## Contacts: [![Linkedin Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aputil)
