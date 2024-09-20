@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/celery-green?style=for-the-badge&logo=celery&logoColor=white"/>
 
 ---
-## GitHub statiatics
+## GitHub statistics
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annaputilovskaya)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaputilovskaya&layout=donut)](https://github.com/annaputilovskaya/github-readme-stats)
