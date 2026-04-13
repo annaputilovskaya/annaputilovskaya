@@ -1,30 +1,29 @@
 ## :woman_technologist: About me
+**Python Backend Developer**
 
-- Backend developer in Python.
+I specialize in building server-side applications using **FastAPI** and **Django**. My core focus is on developing reliable business logic, designing efficient database schemas, and writing clean, maintainable code.
 
-- I like to plan, systematize and organize everything.
-
-- Strictly adhere to deadlines and quality requirements.
-
-- I am able to explain complex things in simple terms and consider mentoring as one of the most important tools for development.
-
-- I am looking for a position in a team that shares my values and will benefit from my skills and personal qualities.
+**My professional principles:**
+- **Systematic Approach:** I thrive on planning and structuring tasks. I ensure that project architecture is logical and code is transparent for the entire team.
+- **Responsibility & Quality:** I strictly adhere to deadlines while maintaining high implementation standards. I believe in doing things right the first time to avoid technical debt.
+- **Communication & Mentoring:** I have a knack for explaining complex concepts in simple terms. I am convinced that a team's growth through knowledge sharing is the shortest path to a project's success.
+  
+I am looking for a position in a team that values quality and systematic thinking, where I can apply my development skills and contribute to building robust and scalable solutions.
 
 ---
 ## Languages and tools
-<img src="https://img.shields.io/badge/linux-yellow?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/windows-blue?style=for-the-badge"/>   
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/SQL-DCDCDC?style=for-the-badge"/> <img src="https://img.shields.io/badge/html-red?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=CSS3&logoColor=white"/>  
-<img src="https://img.shields.io/badge/PSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=white"/>  
-<img src="https://img.shields.io/badge/pycharm-green?style=for-the-badge&logo=pycharm&logoColor=black"/>  
-<img src="https://img.shields.io/badge/Django-006400?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/DRF-red?style=for-the-badge"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/pytest-blue?style=for-the-badge&logo=pytest&logoColor=orange"/>  
-<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/celery-green?style=for-the-badge&logo=celery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Asyncio-grey?style=for-the-badge"/> <img src="https://img.shields.io/badge/FastAPI-grey?style=for-the-badge&logo=FastAPI&logoColor=orange"/> <img src="https://img.shields.io/badge/Django-grey?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/DRF-grey?style=for-the-badge"/> <img src="https://img.shields.io/badge/Pytest-grey?style=for-the-badge&logo=pytest&logoColor=white"/> 
+
+<img src="https://img.shields.io/badge/PostgreSQL-grey?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-grey?style=for-the-badge&logo=SQLAlchemy&logoColor=white"/> <img src="https://img.shields.io/badge/Alembic-grey?style=for-the-badge&logo=Alembic&logoColor=white" /> <img src="https://img.shields.io/badge/Pydantic-grey?style=for-the-badge&logo=Pydantic&logoColor=orange"/>
+
+<img src="https://img.shields.io/badge/celery-grey?style=for-the-badge&logo=celery&logoColor=white"/> <img src="https://img.shields.io/badge/rabbitmq-grey?style=for-the-badge&logo=rabbitmq&logoColor=orange"/> <img src="https://img.shields.io/badge/Redis-grey?style=for-the-badge&logo=redis&logoColor=white"/>  
+
+<img src="https://img.shields.io/badge/Docker-grey?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Prometheus-grey?style=for-the-badge&logo=Prometheus&logoColor=orange"/> <img src="https://img.shields.io/badge/Grafana-grey?style=for-the-badge&logo=Grafana&logoColor=white"/> <img src="https://img.shields.io/badge/linux-grey?style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git&logoColor=orange"/> 
 
 ---
 ## GitHub statistics
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annaputilovskaya)](https://git.io/streak-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaputilovskaya&layout=donut)](https://github.com/annaputilovskaya/github-readme-stats)
 
 ---
 ## Contacts: [![Linkedin Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aputil)
